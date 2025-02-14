@@ -2,7 +2,7 @@
 
 This is the code for bicycle generator. To run the file install openpyxl with this command `pip install openpyxl`. 
 
-Use `generator.py` to generate all permutations of bicycles. For unit test run `test.py`.
+Use `generator.py` to generate all permutations of bicycles and uncomment the last lines in the files. For unit test run `test.py`.
 
 # Problem Statement
 
