@@ -34,8 +34,8 @@ def generate_bicycles(file_path):
     return json.dumps(bicycles, indent=4)
 
 
-# file_path = "Bicycle.xlsx" 
-# output_json = generate_bicycles(file_path)
+file_path = "Bicycle.xlsx" 
+output_json = generate_bicycles(file_path)
 
-# with open('output.json', 'w', encoding='utf-8') as f:
-#     json.dump(output_json, f, ensure_ascii=False, indent=4)
+with open('output.json', 'w', encoding='utf-8') as f:
+    json.dump(output_json, f, ensure_ascii=False, indent=4)
