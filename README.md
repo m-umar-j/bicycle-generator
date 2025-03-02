@@ -72,3 +72,6 @@ The output of the bycicle generator must be a JSON document containing all possi
 1. The bicycle generator must be implemented as Python module. 
 2. The input for the bicycle generator must be a string with an absolute path to a single Excel file (.xlsx) and its output must be a string containing the JSON document.
 3. (optional) at least one automated test using input and checking output as required above.
+4. 
+
+Disclaimer: The code is AI generated
